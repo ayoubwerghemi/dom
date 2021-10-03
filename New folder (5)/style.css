@@ -1,0 +1,80 @@
+
+ #nav-computer{
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    /* background-image: linear-gradient(to right, rgb(3, 3, 3),rgb(63, 57, 57)) */
+} 
+#logo{
+    
+    height: 100%;
+    border-radius: 50%;
+    /* float: right; */
+    opacity: 100%;
+}
+ #box-logo{
+    min-width: 30%;
+    height: 94.5%;
+    /* float: right; */
+    background-color: #fafafa; 
+}
+.shop{
+    display: grid;
+grid-template-columns: 33.33% 33.33% 33.33%;
+
+margin: 30px;
+/* padding-left: 200px;  */
+padding-top: 40px;
+   }
+ /* #website-name{
+    float: left;
+    line-height: 100px;
+    padding: 0 15px;
+    padding-left: 90px;
+}
+#logo:hover{
+ 
+    opacity: 80%;
+
+}
+#nav-computer a{
+    color:blue; */
+   
+   
+  
+   .casquette{
+
+    /* width: 40% ;  */
+    border-radius: 20px;
+    /* padding-bottom: 15px; */
+     border-style: double; 
+   }
+   .jeans{
+    /* width: 40% ;  */
+  border-radius: 20px;
+  /* padding-bottom: 15px; */
+   border-style: double; 
+    }
+    .couleur{
+color: blue;
+
+
+
+
+    }
+    .active{
+  background: brown;
+
+
+    }
+    .chaussure{
+
+        /* width: 45%;  */
+        border-radius: 20px;
+        /* padding-bottom: 15px; */
+        border-style: double;
+       }
+  
+      
+ 
+    
